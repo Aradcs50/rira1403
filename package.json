@@ -1,0 +1,22 @@
+{
+  "name": "rira-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "better-sqlite3": "^8.4.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "nodemailer": "^6.9.3",
+    "axios": "^1.4.0",
+    "zarinpal-checkout": "^1.0.6",
+    "dotenv": "^16.0.3",
+    "bcrypt": "^5.1.0",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
