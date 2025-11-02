@@ -14,7 +14,7 @@
     "cors": "^2.8.5",
     "nodemailer": "^6.9.3",
     "axios": "^1.4.0",
-    "zarinpal-checkout": "^1.0.5",
+    npm install zarinpal-checkout@latest
     "dotenv": "^16.0.3",
     "bcrypt": "^5.1.0",
     "jsonwebtoken": "^9.0.0"
